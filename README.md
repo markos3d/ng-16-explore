@@ -1,4 +1,4 @@
-# Ng16Explore
+# Ng16Explore - Exploring angular 16 features
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
